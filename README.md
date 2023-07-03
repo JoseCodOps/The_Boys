@@ -16,4 +16,4 @@ Visualização do projeto final:
 <p align="center"><img src="./img/imagemReadme.png"></p>
 
 
-Feito por JoseCodOps.
+Feito por JoseCyberTech.
